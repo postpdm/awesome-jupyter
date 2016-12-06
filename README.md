@@ -11,6 +11,8 @@ GitHub have internal [support](https://github.com/blog/1995-github-jupyter-noteb
 
 Here is a [gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) of interesting IPython Notebooks.
 
+[Try](https://try.jupyter.org/) Jupyther in your browser.
+
 # IPython
 
 [IPython](http://ipython.org/) is a root of Jupyter project, and now it's a Python kernel for Jupyter.
