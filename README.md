@@ -9,8 +9,6 @@ Please, contribute!
 
 GitHub have internal [support](https://github.com/blog/1995-github-jupyter-notebooks-3) for rendering of Jupyter notebooks from commited `.ipynb` files.
 
-Here is a [gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) of interesting IPython Notebooks.
-
 [Try](https://try.jupyter.org/) Jupyther in your browser.
 
 # IPython
@@ -20,6 +18,11 @@ Here is a [gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interes
 # NBViewer
 
 Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook from GitHub repo or any URL.
+
+# Sites
+
+* [Gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) of interesting IPython Notebooks.
+* [Exploratory computing with Python by Mark Bakker](http://mbakker7.github.io/exploratory_computing_with_python/)
 
 # Support
 
