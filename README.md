@@ -11,6 +11,8 @@ GitHub have internal [support](https://github.com/blog/1995-github-jupyter-noteb
 
 [Try](https://try.jupyter.org/) Jupyther in your browser.
 
+[Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/).
+
 # IPython
 
 [IPython](http://ipython.org/) is a root of Jupyter project, and now it's a Python kernel for Jupyter.
