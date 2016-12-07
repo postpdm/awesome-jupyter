@@ -1,5 +1,5 @@
 # Awesome Jupyter and IPython links
-A curated list of awesome Jupyter and IPython links
+A curated list of awesome Jupyter and IPython Notebook links
 
 Please, contribute!
 
