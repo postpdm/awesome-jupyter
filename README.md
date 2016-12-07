@@ -19,7 +19,7 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 
 # IPython
 
-[IPython](http://ipython.org/) is a root of Jupyter project, and now it's a Python kernel for Jupyter.
+[IPython](http://ipython.org/) is an ancestor of Jupyter project, and now it's a Python kernel for Jupyter.
 
 # Sites
 
