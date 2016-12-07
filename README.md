@@ -30,6 +30,10 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 * [Gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) of interesting IPython Notebooks.
 * [Exploratory computing with Python by Mark Bakker](http://mbakker7.github.io/exploratory_computing_with_python/)
 
+# Books
+
+* [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
+
 # Support
 
 * https://stackoverflow.com/questions/tagged/jupyter-notebook
