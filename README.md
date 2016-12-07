@@ -13,13 +13,13 @@ GitHub have internal [support](https://github.com/blog/1995-github-jupyter-noteb
 
 [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/).
 
+## NBViewer
+
+Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook from GitHub repo or any URL.
+
 # IPython
 
 [IPython](http://ipython.org/) is a root of Jupyter project, and now it's a Python kernel for Jupyter.
-
-# NBViewer
-
-Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook from GitHub repo or any URL.
 
 # Sites
 
