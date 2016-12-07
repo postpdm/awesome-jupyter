@@ -17,6 +17,10 @@ GitHub have internal [support](https://github.com/blog/1995-github-jupyter-noteb
 
 Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook from GitHub repo or any URL.
 
+## Extensions
+
+* [Unofficial Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+
 # IPython
 
 [IPython](http://ipython.org/) is an ancestor of Jupyter project, and now it's a Python kernel for Jupyter.
