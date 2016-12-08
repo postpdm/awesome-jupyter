@@ -21,6 +21,8 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 
 * [Unofficial Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
+* [Hydrogen](https://github.com/nteract/hydrogen) - run code inline in Atom using Jupyter kernels
+
 # IPython
 
 [IPython](http://ipython.org/) is an ancestor of Jupyter project, and now it's a Python kernel for Jupyter.
