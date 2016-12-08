@@ -21,6 +21,9 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 
 * [Unofficial Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
+## Tools
+
+* [nteract](https://github.com/nteract/nteract) - literate coding environment that supports several Jupyter kernels.
 * [Hydrogen](https://github.com/nteract/hydrogen) - run code inline in Atom using Jupyter kernels
 
 # IPython
