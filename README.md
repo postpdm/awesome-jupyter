@@ -43,6 +43,10 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 
 * https://stackoverflow.com/questions/tagged/jupyter-notebook
 
+# Persons
+
+* [Fernando Pérez](https://en.wikipedia.org/wiki/Fernando_P%C3%A9rez_(software_developer))
+
 # Contributing
 
 Just fork and send a pull request with your awesome Jupyter and IPython links, books, tools and sites.
