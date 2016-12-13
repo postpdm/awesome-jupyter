@@ -24,6 +24,7 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 ## Extensions
 
 * [Unofficial Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+* [Interactive Web Plotting with Bokeh in IPython notebook](https://github.com/bokeh/bokeh-notebooks)
 
 ## Tools
 
