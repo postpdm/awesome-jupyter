@@ -17,6 +17,10 @@ GitHub have internal [support](https://github.com/blog/1995-github-jupyter-noteb
 
 Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook from GitHub repo or any URL.
 
+## Clouds
+
+* [Jupyter Notebook on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-linux-jupyter-notebook)
+
 ## Extensions
 
 * [Unofficial Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
