@@ -46,6 +46,7 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 
 * https://stackoverflow.com/questions/tagged/jupyter-notebook
 * https://groups.google.com/forum/#!forum/jupyter
+* https://jupyter.org/community.html
 
 # Persons
 
