@@ -19,9 +19,11 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 
 ## Clouds
 
-* [Jupyter Notebook on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-linux-jupyter-notebook)
-* [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
-* [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html)
+* Microsoft
+  * [Jupyter Notebook on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-linux-jupyter-notebook)
+* Google
+  * [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
+  * [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html)
 
 ## Extensions
 
