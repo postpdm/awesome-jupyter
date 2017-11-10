@@ -24,6 +24,7 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 * Google
   * [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
   * [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html)
+* [Anaconda Cloud](https://anaconda.org/)
 
 ## Extensions
 
