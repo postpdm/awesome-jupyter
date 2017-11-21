@@ -9,7 +9,7 @@ Please, contribute!
 
 GitHub have internal [support](https://github.com/blog/1995-github-jupyter-notebooks-3) for rendering of Jupyter notebooks from commited `.ipynb` files.
 
-[Try](https://try.jupyter.org/) Jupyther in your browser.
+[Try](https://try.jupyter.org/) Jupyter in your browser.
 
 [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/).
 
