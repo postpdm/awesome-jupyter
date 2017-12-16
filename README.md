@@ -32,6 +32,10 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 * [Unofficial Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 * [Interactive Web Plotting with Bokeh in IPython notebook](https://github.com/bokeh/bokeh-notebooks)
 
+## Kernel extensions
+
+* [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
+
 ## Tools
 
 * [nteract](https://github.com/nteract/nteract) - literate coding environment that supports several Jupyter kernels
