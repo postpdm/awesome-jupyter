@@ -43,6 +43,12 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 * [Hydrogen](https://github.com/nteract/hydrogen) - run code inline in Atom using Jupyter kernels
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 
+## Convert and publish
+
+* [Pelican](https://github.com/danielfrg/pelican-ipynb) - plugin for blogging with Jupyter/IPython Notebooks
+* [Nikola](https://getnikola.com/) - static site generator with Jupyter support
+* Convert to html or md with [NBViewer](https://nbviewer.jupyter.org/)
+
 # IPython
 
 [IPython](http://ipython.org/) is an ancestor of Jupyter project, and now it's a Python kernel for Jupyter.
