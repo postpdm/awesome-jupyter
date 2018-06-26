@@ -47,7 +47,7 @@ Online [NBViewer](https://nbviewer.jupyter.org/) can render your public notebook
 
 * [Pelican](https://github.com/danielfrg/pelican-ipynb) - plugin for blogging with Jupyter/IPython Notebooks
 * [Nikola](https://getnikola.com/) - static site generator with Jupyter support
-* Convert to html or md with [NBViewer](https://nbviewer.jupyter.org/)
+* Convert to html or md with [nbconvert](https://nbconvert.readthedocs.io/en/latest/usage.html)
 
 # IPython
 
